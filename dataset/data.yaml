@@ -1,0 +1,14 @@
+# dataset path
+path: D:/Users/603/Downloads/FRE-YOLOv8/FRE-YOLOv8/ # select your data path
+
+train: ./dataset/images/train
+val: ./dataset/images/val
+test: ./dataset/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names:
+  0: squats
+  1: squats
